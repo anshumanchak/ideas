@@ -4,4 +4,4 @@
 
 # Podcasts
 
-[The Developer's Life](http://thisdeveloperslife.com/) • [Career Design Patterns](https://careerdesignpatterns.com/podcast/) • [tech - Stackify](https://stackify.com/podcast/) • [Eventual Millionaire](https://www.youtube.com/channel/UCJY31yC_KcQiuoZAlEqMT4A) • [Creative Pep Talk](http://www.creativepeptalk.com/episodes)
+[The Developer's Life](http://thisdeveloperslife.com/) • [Career Design Patterns](https://careerdesignpatterns.com/podcast/) • [Eventual Millionaire](https://www.youtube.com/channel/UCJY31yC_KcQiuoZAlEqMT4A) • [Creative Pep Talk](http://www.creativepeptalk.com/episodes) • [tech - Stackify](https://stackify.com/podcast/)
